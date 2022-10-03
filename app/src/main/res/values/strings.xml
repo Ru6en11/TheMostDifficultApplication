@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TheMostDifficultApplication</string>
+    <string name="increment">Increment</string>
+    <string name="clear">Clear</string>
+</resources>
